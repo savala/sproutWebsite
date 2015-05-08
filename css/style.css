@@ -66,6 +66,12 @@
 			color: inherit;
 			text-decoration: none;
 		}
+
+	h1
+	{
+		font-size: 2em;
+		letter-spacing: 11px;
+	}
 		
 	h2
 	{
@@ -232,6 +238,13 @@
 					margin: 0 auto;
 					width: auto;
 				}
+
+		#developerimg
+		{
+			border-radius:50%;
+			width:165px;
+			height:165px;
+		}
 
 	/* List */
 
